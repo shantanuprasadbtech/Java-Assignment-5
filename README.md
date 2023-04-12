@@ -16,6 +16,10 @@ calculatePerimeter()
 
 This method is abstract and does not have an implementation in the Shape class. It is implemented in the derived classes to calculate the perimeter of the specific shape.
 
+Volume Interface:
+
+The interface with a method for calculating volume of a shape.
+
 Square Class:
 
 This class is derived from the Shape class and represents a square shape. It has the following methods:
